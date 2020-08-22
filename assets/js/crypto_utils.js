@@ -1646,8 +1646,8 @@ var config = {
     coinUnitPlaces: 6,
     coinSymbol: 'NAM',
     coinName: 'NAMCoin',
-    coinUriPrefix: 'turtlecoin:',
-    addressPrefix: 192
+    coinUriPrefix: 'namcoin:',
+    addressPrefix: 129
 };
 var cnUtil = (function(initConfig) {
     //var config = $.extend({}, initConfig);
