@@ -1,8 +1,8 @@
-# paper-turtle
+# Paper Wallet
 
-**TurtleCoin Paper Wallet Generator**
+**NamCoin Paper Wallet Generator**
 
-https://turtlecoin.lol/wallet
+https://paperwallet.namcoin.org
 
 ## LICENSE
 
